@@ -1,0 +1,12 @@
+{
+  "title": "extra props",
+  "date": "2026-08-29T09:59:10.500Z",
+  "summary": "extra props",
+  "body": "<h1>Extra props</h1>\n<ul>\n<li><strong>more props</strong></li>\n</ul>\n<p>Author: Kenny</p>\n",
+  "tags": [
+    "test",
+    " kenny"
+  ],
+  "author": "Kenny",
+  "readTime": "5"
+}
