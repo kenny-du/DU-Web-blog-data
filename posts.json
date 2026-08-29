@@ -8,5 +8,17 @@
     "title": "edit meta 2",
     "date": "2026-08-29T07:17:10.780Z",
     "summary": "edit meta 2"
+  },
+  {
+    "title": "extra props",
+    "date": "2026-08-29T09:59:10.500Z",
+    "author": "Kenny",
+    "tags": [
+      "test",
+      " kenny"
+    ],
+    "readTime": "5",
+    "summary": "<h1>Extra props</h1>\n<ul>\n<li><strong>more props</strong></li>\n</ul>\n<p>Author: Kenny</p>\n",
+    "path": "posts/2026-08-29-extra-props.json"
   }
 ]
