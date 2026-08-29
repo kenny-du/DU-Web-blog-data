@@ -1,8 +1,0 @@
-{
-  "title": "try markdown",
-  "date": "2026-08-28T14:22:35.567Z",
-  "summary": "markdown",
-  "body": {
-    "changingThisBreaksApplicationSecurity": "<h1>test</h1>\n<ul>\n<li>optie 1</li>\n<li>optie 2</li>\n</ul>\n<p><strong>bold</strong></p>\n"
-  }
-}
