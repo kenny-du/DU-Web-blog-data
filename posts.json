@@ -20,5 +20,18 @@
     "readTime": "5",
     "summary": "<h1>Extra props</h1>\n<ul>\n<li><strong>more props</strong></li>\n</ul>\n<p>Author: Kenny</p>\n",
     "path": "posts/2026-08-29-extra-props.json"
+  },
+  {
+    "title": "extra props",
+    "date": "2026-08-29T18:20:17.029Z",
+    "author": "Kenny",
+    "tags": [
+      "test",
+      " kenny"
+    ],
+    "readTime": "5",
+    "summary": "nieuwe update summary",
+    "path": "posts/2026-08-29-extra-props.json",
+    "published": true
   }
 ]
