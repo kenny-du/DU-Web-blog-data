@@ -7,7 +7,8 @@
   {
     "title": "edit meta 2",
     "date": "2026-08-29T07:17:10.780Z",
-    "summary": "edit meta 2"
+    "summary": "edit meta 2",
+    "state": "draft"
   },
   {
     "title": "extra props",
@@ -20,6 +21,6 @@
     "readTime": "5",
     "summary": "nieuwe summary",
     "path": "posts/2026-08-29-extra-props.json",
-    "published": false
+    "state": "published"
   }
 ]
