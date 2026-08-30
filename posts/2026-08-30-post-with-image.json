@@ -1,8 +1,8 @@
 {
   "title": "post with image",
-  "date": "2026-08-30T09:30:26.324Z",
+  "date": "2026-08-30T09:34:00.299Z",
   "summary": "post with image sum",
-  "body": "<h1>title</h1>\n<ul>\n<li>optie 1</li>\n<li><strong>optie bold</strong></li>\n</ul>\n",
+  "body": "# title\n\n- optie 1\n- **optie bold**\n",
   "tags": [
     "test",
     " kenny"
