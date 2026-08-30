@@ -22,5 +22,18 @@
     "summary": "nieuwe summary",
     "path": "posts/2026-08-29-extra-props.json",
     "state": "published"
+  },
+  {
+    "title": "post with image",
+    "date": "2026-08-30T08:43:41.405Z",
+    "author": "Kenny",
+    "tags": [
+      "test",
+      " kenny"
+    ],
+    "readTime": "5",
+    "summary": "post with image sum",
+    "path": "posts/2026-08-30-post-with-image.json",
+    "state": "published"
   }
 ]
