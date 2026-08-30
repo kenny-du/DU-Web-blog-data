@@ -1,0 +1,12 @@
+{
+  "title": "post with image",
+  "date": "2026-08-30T08:43:41.405Z",
+  "summary": "post with image sum",
+  "body": "<p>post with image body</p>\n",
+  "tags": [
+    "test",
+    " kenny"
+  ],
+  "author": "Kenny",
+  "readTime": "5"
+}
